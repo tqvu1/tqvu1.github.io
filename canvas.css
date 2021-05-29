@@ -1,0 +1,9 @@
+canvas { 
+  position : absolute; 
+  top : 0px; 
+  left : 0px; 
+  background-image: url('images/banve.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 1200px 1000px;
+}
